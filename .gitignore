@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+*.ipynb_checkpoints
+.DS_Store
+*.csv
+!job_salary_prediction_dataset.csv
+*.log
