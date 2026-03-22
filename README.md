@@ -1,5 +1,3 @@
-# Salary-prediction
-
 # 💼 Salary Predictor
 
 An ML-powered web app that predicts job salaries based on 
